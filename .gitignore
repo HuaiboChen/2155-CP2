@@ -1,0 +1,15 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Generated submission files (student-run outputs, not course content)
+submissions/*
+!submissions/.gitkeep
+/*.npy
